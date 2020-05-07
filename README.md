@@ -35,7 +35,3 @@
 ## Lecture 8: Recurrent Neural Network & Auto Encoder
   * 순환신경망, LSTM, GRU
   * 
-
-
-
-
