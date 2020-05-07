@@ -34,4 +34,26 @@
 
 ## Lecture 8: Recurrent Neural Network & Auto Encoder
   * 순환신경망, LSTM, GRU
-  * 
+  * 오토인코더
+  
+## Lecture 9: Ensemble Learning
+  * 앙상블 배경
+  * 배깅 & 랜덤 포레스트
+  * AdaBoost & Gradient Boosting Machine
+  
+## Lecture 10: Anomaly Detection
+  * 이상치 탐지
+  * 밀도 기반 이상치 탐지
+  * 모델 기반 이상치 탐지
+
+## Lecture 11: Clustering
+  * 군집화 개요 및 타당성 평가 지표
+  * K-평균 군집화
+  * 계층적 군집화
+  * 밀도 기반 군집화: DBSCAN
+
+
+
+
+
+
