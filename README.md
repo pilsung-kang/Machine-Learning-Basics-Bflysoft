@@ -24,5 +24,14 @@
   * Classification Tree: 재귀적 분기, 가지치기
   * Regression Tree
 
+## Lecture 6: Artificial Neural Network
+  * 인공신경망 개요, Perceptron
+  * Multi-layered Perceptron
+  
+## Lecture 7: Deep Neural Network & Convolutional Neural Network
+  * 심층신경망 개요
+  * 합성곱 신경망: Convolution 개념, 대표적 CNN 구조
 
-
+## Lecture 8: Recurrent Neural Network & Auto Encoder
+  * 순환신경망, LSTM, GRU
+  * 
